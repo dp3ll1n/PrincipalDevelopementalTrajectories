@@ -8,8 +8,7 @@
 - [Issues](https://github.com/BiascoLab/PrincipalDevelopementalTrajectories/issues)
 - [Citation](#citation)
 # Overview
-
-This is a R implementation of the  structure-aware algorithm aimed to at revealing and consolidating continuous, low-dimensional and high- density structures in the underlying higher-dimensional data, while ignoring noise and outliers. The theory, proof of convergence to the exact underlying data manifolds (under Gaussian noise assumption) and a deep investigation of its performance under different scenario can be found in Wu, Shihao, et al. [Wu, Shihao, et al. "Structure-aware Data Consolidation." IEEE transactions on pattern analysis and machine intelligence (2017)]
+This repository is in support of the publication Pellin, D. et al. "A comprehensive single cell transcriptional landscape of human hematopoietic progenitors." Nature communications (2019) and consists of an R implementation of the structure-aware algorithm aimed to at revealing and consolidating continuous, low-dimensional and high- density structures in the underlying higher-dimensional data, while ignoring noise and outliers. The theory, proof of convergence to the exact underlying data manifolds (under Gaussian noise assumption) and a deep investigation of its performance under different scenario can be found in Wu, Shihao, et al. [Wu, Shihao, et al. "Structure-aware Data Consolidation." IEEE transactions on pattern analysis and machine intelligence (2017)]
 # Repo Contents
 
 - [PrincDevelTraj.R](./PrincDevelTraj.R): `R` script.
